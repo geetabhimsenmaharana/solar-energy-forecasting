@@ -1,0 +1,6 @@
+model,rmse,mae
+Random Forest,785.54,516.26
+Gradient Boosting,860.92,542.96
+XGBoost,914.39,593.02
+LightGBM,1011.22,706.01
+Linear Regression,49655.62,26655.89
