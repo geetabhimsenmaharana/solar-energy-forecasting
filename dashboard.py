@@ -333,3 +333,8 @@ Self-initiated ML project | Real solar operational data (anonymized) |
 Stack: Python · XGBoost · LightGBM · Scikit-learn · SHAP · Streamlit · Plotly
 </div>
 """, unsafe_allow_html=True)
+
+st.divider()
+
+# ──owner ─────────────────────────────────────────────────────────────
+st.subheader("BY GEEETA BHIMSEN MAHARANA")
