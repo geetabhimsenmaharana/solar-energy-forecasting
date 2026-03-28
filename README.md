@@ -101,7 +101,7 @@ SHAP (SHapley Additive exPlanations) values explain why the model predicted a sp
 
 🔗 ## 📊 Live Dashboard
 
-🔗 [View Live Demo]([https://solar-energy-forecasting-dtkj7bqmeebp5knkjhgdap.streamlit.app/]) ← *Add your Streamlit Cloud URL here after deploying* ← *Add your Streamlit Cloud URL here after deploying*
+🔗 [View Live Demo](https://solar-energy-forecasting-dtkj7bqmeebp5knkjhgdap.streamlit.app/) ← *Add your Streamlit Cloud URL here after deploying* ← *Add your Streamlit Cloud URL here after deploying*
 
 ## ⚠️ Data Note
 
