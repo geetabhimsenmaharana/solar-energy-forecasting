@@ -337,4 +337,9 @@ Stack: Python · XGBoost · LightGBM · Scikit-learn · SHAP · Streamlit · Plo
 st.divider()
 
 # ──owner ─────────────────────────────────────────────────────────────
-st.subheader("BY GEEETA BHIMSEN MAHARANA")
+st.markdown("""
+<div style='text-align:center; color:#999; font-size:12px; margin-top:8px'>
+Built by <strong>Geeta Bhimsen Maharana</strong> · 
+<a href='https://www.linkedin.com/in/geetabhimsenmaharana/' target='_blank'>Connect on LinkedIn</a>
+</div>
+""", unsafe_allow_html=True)
