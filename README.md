@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange.svg)](https://xgboost.ai)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-red.svg)](https://share.streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-red.svg)](https://solar-energy-forecasting-dtkj7bqmeebp5knkjhgdap.streamlit.app/)
 
 ## 🎯 Problem
 
