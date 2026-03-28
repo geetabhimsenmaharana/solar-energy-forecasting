@@ -116,5 +116,6 @@ All site addresses have been anonymized (Site_001 through Site_035). Real addres
 *Part of a 3-project self-initiated ML portfolio built on real solar operational data.*
 *→ [Anomaly Detection](https://github.com/geetabhimsenmaharana/solar-anomaly-detection)*
 *→ [Automation Platform](https://github.com/geetabhimsenmaharana/solar-automation-platform)*
-* GEETA BHIMSEN MAHARANA *
-*→ [Connect here ](https://www.linkedin.com/in/geetabhimsenmaharana/)*
+
+## GEETA BHIMSEN MAHARANA
+ *→ [Connect here ](https://www.linkedin.com/in/geetabhimsenmaharana/)*
